@@ -25,3 +25,5 @@ wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-${architectureUR
 # x86_64 : https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
 unzip ngrok.zip
 rm ngrok.zip
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=get-ngrok.sh

@@ -18,3 +18,5 @@ And run : `ngrok`
 ES: este repositorio es codigo libre, puedes usarlo sin ningun problema.
 
 EN: this repository is free code, you can use it without any problem.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md
